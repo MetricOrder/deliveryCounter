@@ -45,15 +45,15 @@ button {
 }
 
 #increment-btn {
-    background: #004b23;
+    background: #003049;
 }
 
 #save-btn {
-    background: #01295F;
+    background: #fdf0d5;
 }
 
 #reset-btn {
     margin-top: 40px;
-    background: #3F0D12;
+    background: #780000;
 }
 
